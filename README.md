@@ -1,1 +1,1 @@
-# Clase_17_array
+# Clase 17: Ejemplo de manejo de array
