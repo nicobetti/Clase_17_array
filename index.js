@@ -107,3 +107,10 @@ const pelis = [
 //     sistemaDePeliculasConMetodosDeArrays.agregarGenero("Accion", "Aventura")
 //    );
    console.log(sistemaDePeliculas.agregarGenero("Accion", "Aventura"));
+
+   console.log(
+    `EL promedio de duracion en minutos de las peliculas en sistema es de: ${sistemaDePeliculas.promedioDeDuracion()}`
+  );
+//   console.log(
+//     `EL promedio de duracion en minutos de las peliculas en sistema es de: ${sistemaDePeliculasConMetodosDeArrays.promedioDeDuracion()}`
+//   );
